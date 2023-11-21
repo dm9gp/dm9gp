@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gian Piero de Medici
 - 👀 I’m interested in HAM radio
-- 🌱 My called sign is DM9GP
+- 🌱 My call sign is DM9GP
 - 💞️ I’m looking to collaborate on educational projects about high frequency 
 - 📫 How to reach me ...
 
